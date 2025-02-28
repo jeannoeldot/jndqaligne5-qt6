@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>translations/jndqaligne5_fr.qm</file>
+        <file>icons/ICO_OK.png</file>
+        <file>icons/ICO_PIOCHER.png</file>
+        <file>icons/ICO_UNDO.png</file>
+        <file>icons/IconeProg.png</file>
+        <file>images/BouleBlanc.png</file>
+        <file>images/BouleNoir.png</file>
+        <file>images/DebutJeu.png</file>
+        <file>images/DessinBoule.png</file>
+        <file>images/FinJeu.png</file>
+        <file>images/penguin.png</file>
+        <file>images/personal.png</file>
+        <file>images/Plateau.png</file>
+        <file>images/SplashAligne5.png</file>
+        <file>sounds/jndqaligne5_err.wav</file>
+    </qresource>
+</RCC>
